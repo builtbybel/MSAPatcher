@@ -11,7 +11,7 @@ This app restores the original method, making it easier than ever to bypass the 
 ## Method 1: Classic BypassNRO (Registry Key Method)
 
 1. **Prepare the USB Stick**:
-   - **Option 1A**: Manually copy `MSAPatcher.exe` and `bypassnro.bat` to the root of your USB stick.
+   - **Option 1A**: Manually copy `MSAPatcher.exe` and `bypassnro.cmd` to the root of your USB stick.
    - **Option 1B**: Run `MSAPatcher.exe` to automatically patch the USB stick (it will copy the necessary files).
 
 2. **During Windows Setup**:
