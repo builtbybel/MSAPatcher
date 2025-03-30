@@ -17,7 +17,7 @@ This app restores the original method, making it easier than ever to bypass the 
 2. **During Windows Setup**:
    - At the "Welcome" screen, **before connecting to the internet/Wi-Fi**, press Shift + F10 to open the Command Prompt
    - Switch to the USB drive (`D:` or `E:`).
-   - Run `bypassnro.cmd` to set the registry key and bypass the network requirement.
+   - Run `bypassnro.cmd`, **hit option 1** to set the registry key and bypass the network requirement.
 
 3. **Restart**:
    - After the process finishes, restart the PC (press **Y** when asked).
