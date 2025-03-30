@@ -1,6 +1,6 @@
 # MSAPatcher
 
-With Microsoft’s recent Windows 11 updates, the bypass for the network requirement (NRO) was effectively blocked, forcing users into an online account creation. MSAPatcher brings back the simplicity of the bypassnro.cmd one-liner, allowing you to bypass the NRO without having to manually add registry keys or deal with complex workarounds.
+With Microsoft’s recent Windows 11 updates, [the bypass for the network requirement (NRO) was effectively blocked](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26200-5516-dev-channel/) , forcing users into an online account creation. MSAPatcher brings back the simplicity of the bypassnro.cmd one-liner, allowing you to bypass the NRO without having to manually add registry keys or deal with complex workarounds.
 
 This app restores the original method, making it easier than ever to bypass the network requirement during the Windows 11 setup process. Now, you can simply execute a single command instead of dealing with convoluted registry changes.
 
