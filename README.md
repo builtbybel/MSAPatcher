@@ -15,12 +15,13 @@ This app restores the original method, making it easier than ever to bypass the 
    - **Option 1B**: Run `MSAPatcher.exe` to automatically patch the USB stick (it will copy the necessary files).
 
 2. **During Windows Setup**:
-   - At the "Welcome" screen, press **Shift + F10** to open the Command Prompt.
+   - At the "Welcome" screen, **before connecting to the internet/Wi-Fi**, press Shift + F10 to open the Command Prompt
    - Switch to the USB drive (`D:` or `E:`).
    - Run `bypassnro.cmd` to set the registry key and bypass the network requirement.
 
 3. **Restart**:
    - After the process finishes, restart the PC (press **Y** when asked).
+   - After rebooting, you can click the link "I don’t have internet" and continue with the local account installation.
 
 ---
 
